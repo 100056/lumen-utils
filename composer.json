@@ -1,0 +1,16 @@
+{
+    "name": "100056/lumen-utils",
+    "description": "100056.com utils on lumen5.4.7",
+    "type": "library",
+    "require": {
+        "laravel/lumen-framework": "5.4.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luomanqiang",
+            "email": "manqiang.luo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
